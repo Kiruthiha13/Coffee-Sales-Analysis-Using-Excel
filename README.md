@@ -1,6 +1,6 @@
 # Coffee-Sales
 
-Analysis Process
+--- Analysis Process
 
 Explored Dataset Details: Revealed the details of the dataset, offering a comprehensive understanding of its structure and complexities.
 
@@ -14,7 +14,7 @@ Data Analysis: Summarized and analyzed the dataset using pivot tables to extract
 
 Dashboard Development: Created an interactive dashboard utilizing slicers and timeline tools for dynamic data exploration.
 
-Insights
+--- Insights
 
 Highest Sales and Purchase Quantity: The USA leads in both sales and purchase quantities.
 
